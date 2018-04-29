@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 50: end of line expected.
+    e "So he makes you sleepy?":
+                               ^
+
+File "game/script.rpy", line 75: end of line expected.
+    e "Oh, I get those requests regularly. You know how group projects end up.":
+                                                                               ^
+
+Ren'Py Version: Ren'Py 6.99.14.3.3347
+Sun Apr 29 01:50:51 2018
